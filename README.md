@@ -2,10 +2,12 @@
 
 Clone of http://mypiday.com/ designed to work without any claud backend.
 It is praudly hosted on github pages, and relies only on CDN.
-See http://michals.github.io/piday/
+
+See live demo: http://michals.github.io/piday/
+
 If cached (~14MiB) it would work offline.
 
-Some data is precomputed and pushed to a webserver.
+Some of the data is precomputed and pushed to a webserver.
 I used only y-cruncher to generate pi digits and some small scripts to generate the data.
 Application fetches needed data and construncts pi poster on canvas.
 
