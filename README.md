@@ -2,6 +2,7 @@
 
 Clone of http://mypiday.com/ designed to work without any claud backend.
 It is praudly hosted on github pages, and relies only on CDN.
+See http://michals.github.io/piday/
 If cached (~14MiB) it would work offline.
 
 Some data is precomputed and pushed to a webserver.
