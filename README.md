@@ -1,4 +1,4 @@
-# Claudless My Pi Day
+# Cloudless My Pi Day
 
 Clone of http://mypiday.com/ designed to work without any claud backend.
 It is praudly hosted on github pages, and relies only on CDN.
